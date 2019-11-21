@@ -7,7 +7,7 @@
     Vishwal=she is bhingri,she is yedi
     Vishwal=she is bhingri,she is smart.
     saurabh,vaishnavi
-    saurabh is yeda
+    Vaishnavi is yedi
 
 # THANKS
 
