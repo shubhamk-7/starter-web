@@ -8,6 +8,8 @@
     Vishwal=she is bhingri,she is smart.
     saurabh,vaishnavi
     Vaishnavi is yedi
+    saurabh is yeda
+    human is added
 
 # THANKS
 
