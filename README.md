@@ -6,3 +6,8 @@ Stashing purpose
 Multiple stashing
 
 again stashing
+
+
+master changes
+
+tagging
